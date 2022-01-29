@@ -10,5 +10,8 @@ description: Fantom ecosystem short review
 
 [მთვარი გვერდი](https://fantom.foundation)
 
+
 ### ძირითადი სერვისები
+
+### დამატებითი ინფრმაცია
 
