@@ -10,7 +10,7 @@ description: Fantom ecosystem short review
 * დოკები
 * რა არის ფანტომის ქსელი
 
-\<HR>
+<HR>
 
 
 
